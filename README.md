@@ -1,4 +1,4 @@
-# Presentation_Schedule
+# Group Seminar
 Please update your presentation information with following format.
 
 | Date  | Presenter | Topic | Slides |
