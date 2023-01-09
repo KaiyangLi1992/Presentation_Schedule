@@ -1,4 +1,4 @@
-# Group Seminar
+# Group Seminar - Spring 2023
 Please update your presentation information with following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
