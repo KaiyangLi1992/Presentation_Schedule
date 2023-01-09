@@ -3,7 +3,7 @@ Please update your presentation information with following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ~~2023-01-09~~  | Kaiyang Li  | Bundle recommendation | [Link](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Kaiyang%20Li/bundleRec20221205.pptx) |
+| ~~2023-01-09~~  | Kaiyang Li  | Bundle recommendation | [Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Kaiyang%20Li/bundleRec20221205.pptx) |
 | 2023-01-16  |   |   |   |   |   |  |
 | 2023-01-23  | Jinkun Han  | - | - | Huaiyuan Chu | - | - |
 | 2023-01-30  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
