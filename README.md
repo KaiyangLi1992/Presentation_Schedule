@@ -12,5 +12,5 @@ Please update your presentation information with following format.
 | 2023-01-30  | Guangxi Lu & Yixian Chen  | - | |
 | 2023-01-23  | Jinkun Han & Huaiyuan Chu | - | |
 | 2023-01-16  | pass  | pass | pass |
-| 2023-01-09  | Kaiyang Li  | Bundle recommendation | [Link](https://github.com/KK429312/Presentation_Schedule/tree/main/slides/Kaiyang%20Li) |
+| 2023-01-09  | Kaiyang Li  | Bundle recommendation | [Link](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Kaiyang%20Li/bundleRec20221205.pptx) |
 
