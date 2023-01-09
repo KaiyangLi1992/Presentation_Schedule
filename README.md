@@ -13,5 +13,4 @@ Please update your presentation information with following format.
 | 2023-02-27  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
 | 2023-03-06  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
 | 2023-03-13  | Chenyu Wang | - | - | Kaiyang Li   | - | - |
-
 [![Button Example]][Link]
