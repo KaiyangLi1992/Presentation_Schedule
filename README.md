@@ -9,7 +9,9 @@ Please update your presentation information with following format.
 | 2023-01-30  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
 | 2023-02-06  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
 | 2023-02-13  | Chenyu Wang | - | - | Kaiyang Li   | - | - |
-| 2023-02-20  | Jinkun Han  | - | - | Huaiyuan Chu | - | - |
-| 2023-02-27  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
-| 2023-03-06  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
-| 2023-03-13  | Chenyu Wang | - | - | Kaiyang Li   | - | - | 
+| 2023-02-20  | Shatha Alharthy | - | - | Qasim Zia | - | - |
+| 2023-02-27  | Jinkun Han  | - | - | Huaiyuan Chu | - | - |
+| 2023-03-06  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
+| 2023-03-13  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
+| 2023-03-20  | Chenyu Wang | - | - | Kaiyang Li   | - | - | 
+| 2023-03-27  | Shatha Alharthy | - | - | Qasim Zia | - | - |
