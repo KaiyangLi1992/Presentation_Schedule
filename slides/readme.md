@@ -7,4 +7,5 @@
     - 2
       ![image](https://github.com/KK429312/Presentation_Schedule/blob/main/slides/Usage/images/commit_.png)
     - Open your uploaded file and copy the **DOWNLOAD** link of the uploaded file (right click download button and select copy link)
+    ![image](https://github.com/KK429312/Presentation_Schedule/blob/main/slides/Usage/images/link.jpg)
 2. Update [Readme](https://github.com/KK429312/Presentation_Schedule/blob/main/README.md) file  
