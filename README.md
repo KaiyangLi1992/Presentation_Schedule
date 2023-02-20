@@ -10,8 +10,8 @@ Please update your presentation information with following format.
 | ~~2023-02-06~~  | Honghui Xu  | NAS-based Defense on Side-Channel Attack | [Download](https://github.com/KK429312/Presentation_Schedule/blob/main/slides/Honghui%20Xu/Group_Meeting_HHX_230206.pptx) | Yixian Chen   |Distributed broad learning|  [Download](https://github.com/KK429312/Presentation_Schedule/blob/a455783f0631d7fcbafa4c44d7b399bd06e48e78/slides/Yixian%20Chen/Distributed%20broad%20learning.pptx) |  - | - | - |
 | ~~2023-02-13~~  | Chenyu Wang | - | - | Kaiyang Li   | - | - |
 | 2023-02-20  | Kainan Zhang| - | - | - | - | - |
-| 2023-02-27  | Shatha Alharthy | - | - | Qasim Zia | - | - |
-| 2023-03-06  | Jinkun Han  | - | - | Huaiyuan Chu | - | - |
+| 2023-02-27  | Jinkun Han | - | - | Huaiyuan Chu | - | - |
+| 2023-03-06  | Shatha Alharthy | - | - | Qasim Zia | - | - |
 | 2023-03-13  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
 | 2023-03-20  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
 | 2023-03-27  | Chenyu Wang | - | - | Kaiyang Li   | - | - | 
