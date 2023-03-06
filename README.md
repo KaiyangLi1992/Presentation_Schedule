@@ -12,7 +12,7 @@ Please update your presentation information with following format.
 | ~~2023-02-20~~  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
 | ~~2023-02-27~~  | Huaiyuan Chu | - | - | - | - | - |
 | 2023-03-06  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
-| 2023-03-13  | Spring Break | - | - | - | - | - |
+| 2023-03-13  | - | - | - | - | - | - |
 | 2023-03-20  | Qasim Zia | - | - | Shatha Alharthy | - | - |
 | 2023-03-27  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
 | 2023-04-03  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
