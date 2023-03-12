@@ -11,7 +11,7 @@ Please update your presentation information with following format.
 | ~~2023-02-13~~  | Chenyu Wang | T-META: Trust Management for the Cold Start with DT-Aided Blockchain| [Download](https://github.com/KK429312/Presentation_Schedule/blob/main/slides/Chenyu%20Wang/Chenyu_TMETA_20230213.pptx) | -  | - | - |
 | ~~2023-02-20~~  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
 | ~~2023-02-27~~  | Huaiyuan Chu | - | - | - | - | - |
-| 2023-03-06  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
+| ~~2023-03-06~~  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
 | 2023-03-13  | - | - | - | - | - | - |
 | 2023-03-20  | Qasim Zia | - | - | Shatha Alharthy | - | - |
 | 2023-03-27  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
