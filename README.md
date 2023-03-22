@@ -10,7 +10,7 @@ Please update your presentation information with following format.
 | ~~2023-02-06~~  | Honghui Xu  | NAS-based Defense on Side-Channel Attack | [Download](https://github.com/KK429312/Presentation_Schedule/blob/main/slides/Honghui%20Xu/Group_Meeting_HHX_230206.pptx) | Yixian Chen   |Distributed broad learning|  [Download](https://github.com/KK429312/Presentation_Schedule/blob/a455783f0631d7fcbafa4c44d7b399bd06e48e78/slides/Yixian%20Chen/Distributed%20broad%20learning.pptx) |  
 | ~~2023-02-13~~  | Chenyu Wang | T-META: Trust Management for the Cold Start with DT-Aided Blockchain| [Download](https://github.com/KK429312/Presentation_Schedule/blob/main/slides/Chenyu%20Wang/Chenyu_TMETA_20230213.pptx) | -  | - | - |
 | ~~2023-02-20~~  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
-| ~~2023-02-27~~  | Huaiyuan Chu | Inference Attack Against Graph Neural Networks | - | - | - | - |
+| ~~2023-02-27~~  | Huaiyuan Chu | Inference Attack Against Graph Neural Networks | [Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Huaiyuan%20Chu/2023.2.27.pptx) | - | - | - |
 | ~~2023-03-06~~  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
 | ~~2023-03-13~~  | - | - | - | - | - | - |
 | ~~2023-03-20~~  | Qasim Zia | Qualifier | - | - | - | - |
