@@ -18,5 +18,5 @@ Please update your presentation information with following format.
 | 2023-04-03  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
 | 2023-04-10  | Chenyu Wang | - | - | Kaiyang Li   | - | - | 
 | 2023-04-17  | Shatha Alharthy | - | - | Qasim Zia | - | - |
-| 2023-04-24  | Huaiyuan Chu | - | - | Jinkun Han | - | - |
+| 2023-04-24  |  Guangxi Lu  | - | - | Yixian Chen  | - | - |
 
