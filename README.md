@@ -15,7 +15,7 @@ Please update your presentation information with following format.
 | ~~2023-03-13~~  | - | - | - | - | - | - |
 | ~~2023-03-20~~  | Qasim Zia | Qualifier | - | - | - | - |
 | 2023-03-27  | Yixian Chen  | Broad learning | [Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Huaiyuan%20Chu/2023.2.27.pptx) | -| -| -|
-| 2023-04-03  | Honghui Xu  | - | - | -   | - | - |
+| 2023-04-03  | Honghui Xu  | Privacy-Preserving Human Emotion Recognition | [Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Honghui%20Xu/Group_Meeting_HHX_230403.pptx) | -   | - | - |
 | 2023-04-10  | Chenyu Wang | - | - | Kaiyang Li   | - | - | 
 | 2023-04-17  | Shatha Alharthy | - | - | Qasim Zia | - | - |
 | 2023-04-24  |  Guangxi Lu  | - | - | Yixian Chen  | - | - |
