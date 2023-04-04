@@ -14,7 +14,7 @@ Please update your presentation information with following format.
 | ~~2023-03-06~~  | Kainan Zhang| Proposal Dessertation | - | - | - | - |
 | ~~2023-03-13~~  | - | - | - | - | - | - |
 | ~~2023-03-20~~  | Qasim Zia | Qualifier | - | - | - | - |
-| 2023-03-27  | Guangxi Lu  | - | - | Yixian Chen  | Broad learning | [Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Huaiyuan%20Chu/2023.2.27.pptx) |
+| 2023-03-27  | Yixian Chen  | Broad learning | [Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Huaiyuan%20Chu/2023.2.27.pptx) | -| -| -|
 | 2023-04-03  | Honghui Xu  | - | - | Bingyi Xie   | - | - |
 | 2023-04-10  | Chenyu Wang | - | - | Kaiyang Li   | - | - | 
 | 2023-04-17  | Shatha Alharthy | - | - | Qasim Zia | - | - |
