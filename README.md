@@ -1,5 +1,14 @@
 # Group Seminar - Spring 2023
 Please update your presentation information with following format.
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023-05-01  | Honghui Xu  | - | - | Bingyi Xie  | - | - |
+| 2023-05-08  | Chenyu Wang | - | - | Kaiynag Li   | - | - | 
+| 2023-05-15  | Shatha Alharthy | - |-  | Qasim Zia | - | - |
+| 2023-05-22  |  Guangxi Lu  | - | - | Yixian Chen  | - | - |
+| 2023-06-29  |  Huaiyuan Chu  | - | - | -  | - | - |
+
+# Group Seminar - Spring 2023
+Please update your presentation information with following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
