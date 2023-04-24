@@ -18,5 +18,5 @@ Please update your presentation information with following format.
 | ~~2023-04-03~~  | Honghui Xu  | Privacy-Preserving Human Emotion Recognition | [Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Honghui%20Xu/Group_Meeting_HHX_230403.pptx) | -   | - | - |
 | ~~2023-04-10~~  | Chenyu Wang | Towards High-Fidelity Digital Twins | [Download](https://github.com/KK429312/Presentation_Schedule/blob/main/slides/Chenyu%20Wang/Chenyu_TMETA_20230213.pptx?raw=true) | -   | - | - | 
 | ~~2023-04-17~~  | Shatha Alharthy | DRL for DT |[Download](https://github.com/KK429312/Presentation_Schedule/raw/main/slides/Shatha%20Alharthy/DT_Group.pptx)  | Qasim Zia | - | - |
-| 2023-04-24  |  Guangxi Lu  | - | - | Yixian Chen  | - | - |
+| ~~2023-04-24~~  |  Guangxi Lu  | - | - | Yixian Chen  | - | - |
 
