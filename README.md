@@ -1,4 +1,4 @@
-# Group Seminar - Spring 2023
+# Group Seminar - Summer 2023
 Please update your presentation information with following format.
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023-05-01  | Honghui Xu  | - | - | Bingyi Xie  | - | - |
