@@ -6,7 +6,7 @@ Please update your presentation information with following format.
 | 2023-05-01  | Guangxi Lu  | - | - | -  | - | - |
 | 2023-05-08  | Yixian Chen  | - | - | Shatha Alharthy | - | - |
 | 2023-05-15  | Chenyu Wang | - | - | Qasim Zia | - | - | 
-| 2023-05-22  | Kainan Zhang | - |-  | Kaiyang Li| - | - |
+| 2023-05-22  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
 | 2023-05-29  | Honghui Xu  | - | - | Bingyi Xie | - | - |
 | 2023-06-05  | Guangxi Lu  | - | - | Huaiyuan Chu | - | - |
 
