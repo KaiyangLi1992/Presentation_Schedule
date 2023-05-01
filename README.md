@@ -3,7 +3,7 @@ Please update your presentation information with following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023-05-01  | Guangxi Lu  | - | - | -  | - | - |
+| ~~2023-05-01~~  | Guangxi Lu  | - | - | -  | - | - |
 | 2023-05-08  | Yixian Chen  | - | - | Shatha Alharthy | - | - |
 | 2023-05-15  | Chenyu Wang | - | - | Qasim Zia | - | - | 
 | 2023-05-22  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
