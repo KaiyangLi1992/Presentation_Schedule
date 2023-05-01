@@ -3,12 +3,12 @@ Please update your presentation information with following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023-05-01  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
-| 2023-05-08  | Honghui Xu  | - | - | Bingyi Xie  | - | - |
-| 2023-05-15  | Chenyu Wang | - | - | Kaiynag Li   | - | - | 
-| 2023-05-22  | Shatha Alharthy | - |-  | Qasim Zia | - | - |
-| 2023-05-29  | Guangxi Lu  | - | - | Yixian Chen  | - | - |
-| 2023-06-05  | Huaiyuan Chu  | - | - | -  | - | - |
+| 2023-05-01  | Guangxi Lu  | - | - | -  | - | - |
+| 2023-05-08  | Yixian Chen  | - | - | Shatha Alharthy | - | - |
+| 2023-05-15  | Chenyu Wang | - | - | Qasim Zia | - | - | 
+| 2023-05-22  | Huaiyuan Chu | - |-  | Kaiyang Li| - | - |
+| 2023-05-29  | Honghui Xu  | - | - | Bingyi Xie | - | - |
+| 2023-06-05  | Guangxi Lu  | - | - | Kainan Zhang | - | - |
 
 
 # Group Seminar - Spring 2023
