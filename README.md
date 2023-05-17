@@ -5,10 +5,11 @@ Please update your presentation information with following format.
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ~~2023-05-01~~  | Guangxi Lu  | - | - | -  | - | - |
 | ~~2023-05-08~~  | Qasim Zia  | - | - | Shatha Alharthy | - | - |
-| 2023-05-15  | Chenyu Wang | - | - | Huaiyuan Chu | - | - | 
-| 2023-05-22  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
-| 2023-05-29  | Honghui Xu  | - | - | Bingyi Xie | - | - |
-| 2023-06-05  | Guangxi Lu  | - | - | - | - | - |
+| ~~2023-05-15~~  | canceled | - | - | canceled | - | - |
+| 2023-05-22  | Chenyu Wang | - | - | Huaiyuan Chu | - | - | 
+| 2023-05-29  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
+| 2023-06-05  | Honghui Xu  | - | - | Bingyi Xie | - | - |
+| 2023-06-12  | Guangxi Lu  | - | - | - | - | - |
 
 
 
