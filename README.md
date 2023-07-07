@@ -1,5 +1,5 @@
 # Group Seminar - Summer 2023
-Please update your presentation information with following format.
+Please update your presentation information with the following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -12,17 +12,18 @@ Please update your presentation information with following format.
 | ~~2023-06-12~~  | Honghui Xu  | - | - | Bingyi Xie | - | - |
 | ~~2023-06-19~~  | Guangxi Lu  | - | - | - | - | - |
 | ~~2023-06-26~~  | Canceled | - | - | Canceled | - | - |
-| 2023-07-03  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
-| 2023-07-10  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
-| 2023-07-17  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
-| 2023-07-24  | Honghui Xu  | - | - | Bingyi Xie | - | - |
-| 2023-07-31  | Guangxi Lu  | - | - | - | - | - |
+| ~~2023-07-03~~  | Canceled | - | - | Canceled | - | - |
+| 2023-07-10  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
+| 2023-07-17  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+| 2023-07-24  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
+| 2023-07-31  | Honghui Xu  | - | - | Bingyi Xie | - | - |
+| 2023-08-07  | Guangxi Lu  | - | - | - | - | - |
 
 
 
 
 # Group Seminar - Spring 2023
-Please update your presentation information with following format.
+Please update your presentation information with the following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
