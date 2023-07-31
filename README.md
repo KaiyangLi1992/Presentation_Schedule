@@ -15,11 +15,12 @@ Please update your presentation information with the following format.
 | ~~2023-07-03~~  | Canceled | - | - | Canceled | - | - |
 | ~~2023-07-10~~  | Canceled | - | - | Canceled | - | - |
 | ~~2023-07-17~~  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
-| 2023-07-24  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+| ~~2023-07-24~~  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
 | 2023-07-31  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
 | 2023-08-07  | Honghui Xu  | - | - | Bingyi Xie | - | - |
 | 2023-08-14  | Guangxi Lu  | - | - | - | - | - |
-
+| 2023-08-21  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
+| 2023-08-28  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
 
 
 
