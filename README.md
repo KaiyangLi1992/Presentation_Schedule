@@ -3,26 +3,12 @@ Please update your presentation information with the following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ~~2023-05-01~~  | Guangxi Lu  | - | - | -  | - | - |
-| ~~2023-05-08~~  | Qasim Zia  | - | - | Shatha Alharthy | - | - |
-| ~~2023-05-15~~  | Canceled | - | - | Canceled | - | - |
-| ~~2023-05-22~~  | Chenyu Wang | - | - | Huaiyuan Chu | - | - | 
-| ~~2023-05-29~~  | Canceled | - |-  | Canceled | - | - |
-| ~~2023-06-05~~  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
-| ~~2023-06-12~~  | Honghui Xu  | - | - | Bingyi Xie | - | - |
-| ~~2023-06-19~~  | Guangxi Lu  | - | - | - | - | - |
-| ~~2023-06-26~~  | Canceled | - | - | Canceled | - | - |
-| ~~2023-07-03~~  | Canceled | - | - | Canceled | - | - |
-| ~~2023-07-10~~  | Canceled | - | - | Canceled | - | - |
-| ~~2023-07-17~~  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
-| ~~2023-07-24~~  | Canceled | - | - | Canceled | - | - |
-| ~~2023-07-31~~  | Canceled | - | - | Canceled | - | - |
-| 2023-08-07  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
-| 2023-08-14  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
-| 2023-08-21  | Honghui Xu  | - | - | Bingyi Xie | - | - |
-| 2023-08-28  | Guangxi Lu  | - | - | - | - | - |
-| 2023-09-04  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
-| 2023-09-11  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+| 2023-08-22  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+| 2023-08-29  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
+| 2023-09-05  | Honghui Xu  | - | - | Bingyi Xie | - | - |
+| 2023-09-12  | Guangxi Lu  | - | - | - | - | - |
+| 2023-09-19  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
+| 2023-09-26  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
 
 
 
