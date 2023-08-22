@@ -1,14 +1,40 @@
+# Group Seminar - Fall 2023
+Please update your presentation information with the following format.
+
+| Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 2023-08-29  | Kaiyang Li  | Qualifier | - | - | - | - |
+| 2023-09-05  |  Jinkun Han | - | - | Kainan Zhang | - | - |
+| 2023-09-12  |  Kaiyang Li | Qualifier | - | - | - | - |
+| 2023-09-19  |  Qaism Zia | - | - | Shatha Alharthy | - | - |
+| 2023-09-26  |  Chenyu Wang | - | - | Bingyi Xie | - | - |
+| 2023-10-03  |  Honghui Xu | - | - | Guangxi Lu | - | - |
+
+
+
+
 # Group Seminar - Summer 2023
 Please update your presentation information with the following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2023-08-22  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
-| 2023-08-29  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
-| 2023-09-05  | Honghui Xu  | - | - | Bingyi Xie | - | - |
-| 2023-09-12  | Guangxi Lu  | - | - | - | - | - |
-| 2023-09-19  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
-| 2023-09-26  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+| ~~2023-06-19~~  | Guangxi Lu  | - | - | - | - | - |
+| ~~2023-06-26~~  | Canceled | - | - | Canceled | - | - |
+| ~~2023-07-03~~  | Canceled | - | - | Canceled | - | - |
+| ~~2023-07-10~~  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
+| ~~2023-07-17~~  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+| ~~2023-07-24~~  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
+| ~~2023-07-31~~  | Honghui Xu  | - | - | Bingyi Xie | - | - |
+| ~~2023-08-07~~  | Guangxi Lu  | - | - | - | - | - |
+| ~~2023-07-10~~  | Canceled | - | - | Canceled | - | - |
+| ~~2023-07-17~~  | Shatha Alharthy  | - | - | Qasim Zia | - | - |
+| ~~2023-07-24~~  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+| ~~2023-07-31~~  | Kainan Zhang | - |-  | Kaiyang Li | - | - |
+| ~~2023-08-07~~  | Honghui Xu  | - | - | Bingyi Xie | - | - |
+| ~~2023-08-14~~  | Guangxi Lu  | - | - | - | - | - |
+| ~~2023-08-22~~  | Chenyu Wang | - | - | Huaiyuan Chu | - | - |
+
+
 
 
 
