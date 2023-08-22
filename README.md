@@ -4,11 +4,11 @@ Please update your presentation information with the following format.
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 2023-08-29  | Kaiyang Li  | Qualifier | - | - | - | - |
-| 2023-09-05  |  Jinkun Han | - | - | Kainan Zhang | - | - |
+| 2023-09-05  |  Qaism Zia | - | - | Shatha Alharthy | - | - |
 | 2023-09-12  |  Kaiyang Li | Qualifier | - | - | - | - |
-| 2023-09-19  |  Qaism Zia | - | - | Shatha Alharthy | - | - |
-| 2023-09-26  |  Chenyu Wang | - | - | Bingyi Xie | - | - |
-| 2023-10-03  |  Honghui Xu | - | - | Guangxi Lu | - | - |
+| 2023-09-19  |  Chenyu Wang | - | - | Bingyi Xie | - | - |
+| 2023-09-26  |  Honghui Xu | - | - | Guangxi Lu | - | - |
+| 2023-10-03  |  Jinkun Han | - | - | Kainan Zhang | - | - |
 
 
 
