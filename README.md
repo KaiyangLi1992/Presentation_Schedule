@@ -6,12 +6,11 @@ Please update your presentation information with the following format.
 | 2023-08-29  | Kaiyang Li  | Qualifier | - | - | - | - |
 | 2023-09-05  |  Qaism Zia | - | - | Shatha Alharthy | - | - |
 | 2023-09-12  |  Kaiyang Li | Qualifier | - | - | - | - |
-| 2023-09-19  |  Honghui Xu | - | - | Guangxi Lu | - | - |
+| 2023-09-19  |  Huaiyuan Chu | - | - | Guangxi Lu | - | - |
 | 2023-09-26  |  Chenyu Wang | - | - | Bingyi Xie | - | - |
 | 2023-10-03  |  Jinkun Han | - | - | Kainan Zhang | - | - |
 | 2023-10-10  |  Parse Ghazvinian | - | - | Prajwal Panzade| - | - |
 | 2023-10-17  |  Kaiyang Li | - | - | Javad Rafiei Asl | - | - |
-
 
 
 
