@@ -9,7 +9,7 @@ Please update your presentation information with the following format.
 |~~2023-09-19~~  |  Huaiyuan Chu | - | - | Guangxi Lu | - | - |
 |~~2023-09-26~~  |  Chenyu Wang | - | - | Bingyi Xie | - | - |
 |~~2023-10-03~~  |  Jinkun Han | - | - | Kainan Zhang | - | - |
-| 2023-10-10  |  Parse Ghazvinian | - | - | Prajwal Panzade| - | - |
+|~~2023-10-10~~  |  Parse Ghazvinian | - | - | Prajwal Panzade| - | - |
 | 2023-10-17  |  Kaiyang Li | - | - | Qaism Zia | - | - |
 | 2023-10-24  |  Javad Rafiei Asl | - | - |  | - | - |
 | 2023-10-31  |  Huaiyuan Chu | - | - | Shatha Alharthy | - | - |
