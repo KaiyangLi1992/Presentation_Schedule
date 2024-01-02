@@ -8,8 +8,8 @@ Please update your presentation information with the following format.
 |2024-01-22  | Dong Yang  | - | - | - | - | - |
 |2024-01-29  | Visiting Scholar  | - | - | - | - | - |
 |2024-02-05  | Visiting Scholar  | - | - | - | - | - |
-|2024-02-12  | Bingyi Xie  | - | - | - | - | - |
-|2024-02-19  | Jinkun Han  | - | - | - | - | - |
+|2024-02-12  | Jinkun Han  | - | - | - | - | - |
+|2024-02-19  | Bingyi Xie  | - | - | - | - | - |
 
 
 # Group Seminar - Fall 2023
