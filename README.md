@@ -10,6 +10,7 @@ Please update your presentation information with the following format.
 |2024-02-05  | Visiting Scholar  | - | - | - | - | - |
 |2024-02-12  | Jinkun Han  | - | - | - | - | - |
 |2024-02-19  | Bingyi Xie  | - | - | - | - | - |
+|2024-02-26  | Haijing Zhang  | - | - | - | - | - |
 
 
 # Group Seminar - Fall 2023
