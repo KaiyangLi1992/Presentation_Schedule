@@ -1,3 +1,15 @@
+# Group Seminar - Spring 2024
+Please update your presentation information with the following format.
+
+| Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|2024.01.08  | Dong Yang   | - | - | - | - | - |
+|2024.01.15  | Chenyu Wang | - | - | - | - | - |
+|2024.01.22  | Kaiyang Li  | - | - | - | - | - |
+|2024.01.29  | Bingyi Xie  | - | - | - | - | - |
+|2024.02.05  | Jinkun Han  | - | - | - | - | - |
+
+
 # Group Seminar - Fall 2023
 Please update your presentation information with the following format.
 
