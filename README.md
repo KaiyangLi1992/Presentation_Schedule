@@ -12,6 +12,7 @@ Please update your presentation information with the following format.
 |2024-02-19  | Kaiyang Li  | - | - | - | - | - |
 |2024-02-26  | Dong Yang  | - | - | - | - | - |
 |2024-03-04  | Haijing Zhang   | - | - | - | - | - |
+|2024-03-11  | Holiday: Spring Break   | - | - | - | - | - |
 
 
 # Group Seminar - Fall 2023
