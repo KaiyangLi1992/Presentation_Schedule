@@ -1,11 +1,12 @@
 # Group Seminar - Spring 2024
-Please update your presentation information with the following format.
 
 <code style="color : red">Date: Jan 08 to April 31</code>
 
 <code style="color : red">Time: 12:00 PM to 2:00 PM, Monday</code>
 
 <code style="color : red">Location: Room 755, 25 Park Place</code>
+
+Please update your presentation information with the following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
