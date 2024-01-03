@@ -3,16 +3,18 @@ Please update your presentation information with the following format.
 
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|2024-01-08  | Kaiyang Li   | - | - | Qiasim Zia | - | - |
+|2024-01-08  | Kaiyang Li   | - | - | - | - | - |
 |2024-01-15  | Holiday: Martin Luther King Jr. Day | - | - | - | - | - |
 |2024-01-22  | Dong Yang  | - | - | - | - | - |
 |2024-01-29  | Visiting Scholar  | - | - | - | - | - |
 |2024-02-05  | Visiting Scholar  | - | - | - | - | - |
 |2024-02-12  | Haijing Zhang  | - | - | - | - | - |
-|2024-02-19  | Kaiyang Li  | - | - | Qiasim Zia | - | - |
-|2024-02-26  | Dong Yang  | - | - | - | - | - |
-|2024-03-04  | Haijing Zhang   | - | - | - | - | - |
+|2024-02-19  | Qiasim Zia  | - | - | - | - | - |
+|2024-02-26  | Kaiyang Li  | - | - | - | - | - |
+|2024-03-04  | Dong Yang   | - | - | - | - | - |
 |2024-03-11  | Holiday: Spring Break   | - | - | - | - | - |
+|2024-03-18  | Haijing Zhang   | - | - | - | - | - |
+
 
 
 # Group Seminar - Fall 2023
