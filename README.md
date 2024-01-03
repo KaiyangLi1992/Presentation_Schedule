@@ -1,7 +1,10 @@
 # Group Seminar - Spring 2024
 Please update your presentation information with the following format.
 
+<span style="color:red">
 Date: Jan 08 to April 31
+</span>
+
 
 Time: 12:00 PM to 2:00 PM, Monday
 
