@@ -1,6 +1,10 @@
 # Group Seminar - Spring 2024
 Please update your presentation information with the following format.
 
+Date: Jan 08 to April 31
+Time: 12:00 PM to 2:00 PM, Monday
+Location: Room 755, 25 Park Place
+
 | Date  | Presenter 1 | Topic | Slides | Presenter 2 | Topic | Slides |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |2024-01-08  | Kaiyang Li   | - | - | - | - | - |
