@@ -17,16 +17,16 @@ Please update your presentation information with the following format.
 |2024-02-05  | Visiting Scholar  | - | - | - | - | - |
 |2024-02-12  | Dong Yang  | - | - | - | - | - |
 |2024-02-19  | Haijing Zhang   | - | - | - | - | - |
-|2024-02-26  | Qiasim Zia   | - | - | - | - | - |
+|2024-02-26  | Qasim Zia   | - | - | - | - | - |
 |2024-03-04  | Kaiyang Li    | - | - | - | - | - |
 |2024-03-11  | Holiday: Spring Break   | - | - | - | - | - |
 |2024-03-18  | Dong Yang   | - | - | - | - | - |
 |2024-03-25  | Haijing Zhang   | - | - | - | - | - |
-|2024-04-01  | Qiasim Zia    | - | - | - | - | - |
+|2024-04-01  | Qasim Zia    | - | - | - | - | - |
 |2024-04-08  | Kaiyang Li    | - | - | - | - | - |
 |2024-04-15  | Dong Yang    | - | - | - | - | - |
 |2024-04-22  | Haijing Zhang  | - | - | - | - | - |
-|2024-04-29  | Qiasim Zia     | - | - | - | - | - |
+|2024-04-29  | Qasim Zia     | - | - | - | - | - |
 
 
 
