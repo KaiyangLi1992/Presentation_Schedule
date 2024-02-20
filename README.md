@@ -15,11 +15,11 @@ Please update your presentation information with the following format.
 |~~2024-01-22~~  | Chenyu Wang  | Job Talk | - | - | - | - |
 |~~2024-01-29~~  | Visiting Scholar  | - | - | - | - | - |
 |~~2024-02-05~~  | Visiting Scholar  | - | - | - | - | - |
-|2024-02-12  | Dong Yang  | - | - | - | - | - |
-|2024-02-16  | Invited Talk (12:00 to 1:00 pm) | - | - | - | - | - |
-|2024-02-19  | Haijing Zhang   | - | - | - | - | - |
-|2024-02-26  | Qasim Zia   | - | - | - | - | - |
-|2024-03-04  | Kaiyang Li    | - | - | - | - | - |
+|~~2024-02-12~~  | Dong Yang  | - | - | - | - | - |
+|~~2024-02-16~~  | Invited Talk (12:00 to 1:00 pm) | - | - | - | - | - |
+|~~2024-02-19~~  | -   | - | - | - | - | - |
+|2024-02-26  | Haijing Zhang   | - | - | - | - | - |
+|2024-03-04  | Qasim Zia   | - | - | - | - | - |
 |2024-03-11  | Holiday: Spring Break   | - | - | - | - | - |
 |2024-03-18  | Dong Yang   | - | - | - | - | - |
 |2024-03-25  | Haijing Zhang   | - | - | - | - | - |
