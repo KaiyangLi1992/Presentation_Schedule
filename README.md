@@ -50,8 +50,8 @@ Please update your presentation information with the following format.
 | ~~2023-11-14~~  |  Jinkun Han | - | - | Kainan Zhang | - | - |
 | ~~2023-11-21~~  |  Thanksgiving Break | - | - | - | - | - |
 | ~~2023-11-28~~  |  Cancelled | - | - | - | - | - |
-| 2023-12-05  |  Kaiyang Li | - | - | Qasim Zia | - | - |
-| 2023-12-12  |  Chenyu Wang | - | - | Bingyi Xie | - | - |
+| ~~2023-12-05~~  |  Kaiyang Li | - | - | Qasim Zia | - | - |
+| ~~2023-12-12~~  |  Chenyu Wang | - | - | Bingyi Xie | - | - |
 
 
 
