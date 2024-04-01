@@ -22,7 +22,7 @@ Please update your presentation information with the following format.
 |~~2024-03-04~~  | Qasim Zia   | - | - | - | - | - |
 |~~2024-03-11~~  | Holiday: Spring Break   | - | - | - | - | - |
 |~~2024-03-18~~  | Dong Yang   | - | - | - | - | - |
-|2024-03-25  | Qasim Zia   | - | - | - | - | - |
+|~~2024-03-25~~  | Dong Yang   | - | - | - | - | - |
 |2024-04-01  | Qasim Zia  | - | - | - | - | - |
 |2024-04-08  | Kaiyang Li    | - | - | - | - | - |
 |2024-04-15  | Prajwal Panzade  | - | - | - | - | - |
